@@ -1,0 +1,38 @@
+.Tugas h1 {
+  color: rgb(255, 0, 0);
+  font-size: 78px;
+  font-weight: bold;
+}
+
+.Tugas h2 {
+  color: purple;
+  font-size: 62px;
+  font-weight: bold;
+}
+.Tugas h3 {
+  color: rgb(0, 0, 0);
+  font-size: 48px;
+  font-weight: bold;
+}
+.Tugas h4 {
+  color: rgb(0, 162, 255);
+  font-size: 32px;
+  font-weight: bold;
+}
+.Tugas h5 {
+  color: rgb(68, 0, 255);
+  font-size: 24px;
+  font-weight: bold;
+}
+.Tugas h6 {
+  color: rgb(0, 255, 34);
+  font-size: 16px;
+  font-weight: bold;
+}
+
+/* h1: font-size: 78px
+h2: font-size: 62px
+h3: font-size: 48px:
+h4: font-size: 32px;
+h5: font-size: 24px:
+h6: font-size: 16px; */
